@@ -5,7 +5,7 @@
 
 Also please see document in Qiita (Japanese). 
 
-- [北海道大学のクラーク像はオープンデータになりうるという話 - Qiita](https://qiita.com/mkuriki1990/items/f5bba9d7161210847ade)
+- [北海道大学のクラーク像はオープンデータになりうるという話 - Qiita](https://qiita.com/mkuriki1990/items/f5bba9d7161210847ade) (The bust of Clark in Hokkaido University can be open data)
 
 ## File description
 - clark.pts : raw data of point clouds
